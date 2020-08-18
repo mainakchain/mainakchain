@@ -1,4 +1,4 @@
-### Hi there! I'm Mainak - aka [codeSTACKr][website] 👋
+### Hi there! I'm Mainak. Here's my [personal webpage][website] 👋
 
 [![Website](https://img.shields.io/website?label=mainakchain.github.io/&style=for-the-badge&url=https%3A%2F%2Fmainakchain.github.io/)](https://mainakchain.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -8,10 +8,10 @@
 - 🔭 I’m currently working on implementing deeplearning on [Carla][carla-website]!
 - 🌱 I’m currently learning appliations of reinforcement learning and everything I can procure 🤣
 - 👯 I’m looking to collaborate with other Kagglers
-- 🥅 2020 Goals: 
+- 🥅 2020 Goals:
     -  Contribute more to Open Source projects
     -  Learn by solving problems in Kaggle
-- ⚡ Fun fact: I love to draw and learn. Learning is the best!
+- ⚡ Fun fact: I love to draw and learn new things. Learning is the best!
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -50,7 +50,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
@@ -60,11 +60,11 @@
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -72,7 +72,7 @@
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->  -->
 
 ➡️ [more blog posts...](https://mainakchain.github.io/)
 
@@ -101,7 +101,6 @@
 [website]: https://mainakchain.github.io/
 [carla-website]: https://carla.org/
 [twitter]: https://twitter.com/mainakchain
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/mainakchain
-[linkedin]: https://linkedin.com/in/mainakchain
-
+[youtube]: https://www.youtube.com/channel/UCmHPSWuncJr2M-67NTn89IA/featured?disable_polymer=true
+[linkedin]: https://www.linkedin.com/in/mainakchain
+[kaggle]: https://www.kaggle.com/mainakchain
