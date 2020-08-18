@@ -30,19 +30,16 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/keras.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apachespark.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linux.svg" />
-
+<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/keras/keras.png" />
+<img align="left" alt="Spark" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="MondoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <br />
 <br />
