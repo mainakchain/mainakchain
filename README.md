@@ -35,12 +35,12 @@
 <img align="left" alt="TensorFlow" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Keras" width="35px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />
 <img align="left" alt="Pandas" width="70px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />
-<img align="left" alt="Matplotlib" width="75px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />
-<img align="left" alt="Spark" width="45px" src="https://github.com/valohai/ml-logos/blob/master/spark.svg" />
+<img align="left" alt="Matplotlib" width="70px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />
+<img align="left" alt="Spark" width="50px" src="https://github.com/valohai/ml-logos/blob/master/spark.svg" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="MondoDB" width="70px" src="https://github.com/mainakchain/mainakchain/blob/master/src/img/mongodb.svg" />
+<img align="left" alt="MondoDB" width="80px" src="https://github.com/mainakchain/mainakchain/blob/master/src/img/mongodb.svg" />
 <img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <br />
