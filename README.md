@@ -65,6 +65,8 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#150](https://github.com/carla-simulator/carla/issues/150) in [carla-simulator/carla](https://github.com/carla-simulator/carla)
+2. 🗣 Commented on [#2005](https://github.com/carla-simulator/carla/issues/2005) in [carla-simulator/carla](https://github.com/carla-simulator/carla)
 <!--END_SECTION:activity-->
 
 </details>
