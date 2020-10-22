@@ -65,8 +65,8 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1921](https://github.com/carla-simulator/carla/issues/1921) in [carla-simulator/carla](https://github.com/carla-simulator/carla)
-2. 🗣 Commented on [#150](https://github.com/carla-simulator/carla/issues/150) in [carla-simulator/carla](https://github.com/carla-simulator/carla)
+1. ❗️ Opened issue [#7708](https://github.com/eclipse/sumo/issues/7708) in [eclipse/sumo](https://github.com/eclipse/sumo)
+2. 🗣 Commented on [#1921](https://github.com/carla-simulator/carla/issues/1921) in [carla-simulator/carla](https://github.com/carla-simulator/carla)
 <!--END_SECTION:activity-->
 
 </details>
