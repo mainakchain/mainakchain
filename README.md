@@ -65,8 +65,8 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/LucasAlegre/sumo-rl/issues/17) in [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
-2. ❗️ Opened issue [#7708](https://github.com/eclipse/sumo/issues/7708) in [eclipse/sumo](https://github.com/eclipse/sumo)
+1. ❗️ Opened issue [#18](https://github.com/LucasAlegre/sumo-rl/issues/18) in [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
+2. ❗️ Opened issue [#17](https://github.com/LucasAlegre/sumo-rl/issues/17) in [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
 <!--END_SECTION:activity-->
 
 </details>
