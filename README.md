@@ -65,8 +65,8 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/LucasAlegre/sumo-rl/issues/18) in [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
-2. ❗️ Opened issue [#17](https://github.com/LucasAlegre/sumo-rl/issues/17) in [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
+1. ❗️ Opened issue [#3](https://github.com/cityflow-project/data/issues/3) in [cityflow-project/data](https://github.com/cityflow-project/data)
+2. 🗣 Commented on [#8](https://github.com/Chacha-Chen/MPLight/issues/8) in [Chacha-Chen/MPLight](https://github.com/Chacha-Chen/MPLight)
 <!--END_SECTION:activity-->
 
 </details>
