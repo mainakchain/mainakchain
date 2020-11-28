@@ -1,7 +1,7 @@
 ### Hi there! I'm Mainak. Here's my [personal webpage][website] 👋
 
 [![Website](https://img.shields.io/website?label=mainakchain.github.io/&style=for-the-badge&url=https%3A%2F%2Fmainakchain.github.io/)](https://mainakchain.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mainakchain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmainakchain&screen_name=mainakchain)
 
 ## I'm a Student, Data Scientist, Kaggler, Developer, Artist and Finance Enthusiast!
 
