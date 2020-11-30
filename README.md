@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=mainakchain.github.io/&style=for-the-badge&url=https%3A%2F%2Fmainakchain.github.io/)](https://mainakchain.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mainakchain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmainakchain&screen_name=mainakchain)
 
-## I'm a Student, Data Scientist, Kaggler, Developer, Artist and Finance Enthusiast!
+## I'm a Research Engineer, a Kaggler, a Developer, a Blogger, an Artist and an Investor!
 
-- 🔭 I’m currently working on implementing deeplearning on [Carla][carla-website]!
+- 🔭 I’m currently working on implementing algorithms on [Carla][carla-website]!
 - 🌱 I’m currently learning appliations of reinforcement learning and everything I can procure 🤣
 - 👯 I’m looking to collaborate with other Kagglers
 - 🥅 2020 Goals:
